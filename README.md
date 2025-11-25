@@ -3,9 +3,7 @@ Car Rental Service System
 The **Car Rental Service System** is a Python-based console application that manages vehicles, customer records, and rental transactions. The system supports multiple vehicle types (Car, Bike) and is implemented using Object-Oriented Programming with modular components.
 
 ---
-
-## 📂 Project Structure (from provided files)
-
+## 
 Car Rental Service System/
 │
 ├── main.py
@@ -24,19 +22,6 @@ Car Rental Service System/
 │ └── pycache/
 │
 └── README.md (auto-generated replacement)
-
-
----
-
-## Key Concepts Implemented
-
-✅ Object-Oriented Programming  
-✅ Inheritance (Vehicle → Car / Bike)  
-✅ Customer data handling  
-✅ Rental processing logic  
-✅ Modular architecture  
-✅ Utility helper functions  
-✅ Menu-driven execution  
 
 ---
 
